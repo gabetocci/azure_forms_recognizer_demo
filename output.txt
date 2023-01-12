@@ -1,0 +1,727 @@
+----Key-value pairs found in document----
+----Analyzing document from page #1----
+Page has width: 8.5 and height: 11.0, measured with unit: inch
+...Line # 0 has text content 'ADVISORY BOARD CHARTER/BY-LAWS' within bounding box '[2.8305, 1.3452], [5.6597, 1.3452], [5.6597, 1.4965], [2.8305, 1.4965]'
+...Line # 1 has text content 'I.' within bounding box '[1.2598, 2.2427], [1.3287, 2.2427], [1.3287, 2.3539], [1.2598, 2.3539]'
+...Line # 2 has text content 'Principles' within bounding box '[1.7598, 2.2374], [2.4567, 2.2374], [2.4567, 2.3887], [1.7598, 2.3887]'
+...Line # 3 has text content 'This document is authored to provide the protocols for the administrative and' within bounding box '[1.7553, 2.6287], [7.2969, 2.6287], [7.2969, 2.7804], [1.7553, 2.7804]'
+...Line # 4 has text content 'parliamentary function of the ETSU Center of Excellence in Early Childhood' within bounding box '[1.756, 2.8237], [7.0885, 2.8237], [7.0885, 2.9761], [1.756, 2.9761]'
+...Line # 5 has text content 'Learning and Development Advisory Board.' within bounding box '[1.7598, 3.0191], [4.8487, 3.0191], [4.8487, 3.1717], [1.7598, 3.1717]'
+...Line # 6 has text content 'II.' within bounding box '[1.2598, 3.4161], [1.382, 3.4161], [1.382, 3.5272], [1.2598, 3.5272]'
+...Line # 7 has text content 'Purpose' within bounding box '[1.7598, 3.4161], [2.3328, 3.4161], [2.3328, 3.5621], [1.7598, 3.5621]'
+...Line # 8 has text content 'The purpose of this Board shall be to advise, assist, and support and advocate for' within bounding box '[1.7553, 3.8004], [7.4779, 3.8004], [7.4779, 3.9521], [1.7553, 3.9521]'
+...Line # 9 has text content 'the mission of the ETSU Center of Excellence in Early Childhood Learning and' within bounding box '[1.753, 3.9954], [7.2368, 3.9954], [7.2368, 4.1484], [1.753, 4.1484]'
+...Line # 10 has text content 'Development. Members of the advisory board are volunteers who share an' within bounding box '[1.7598, 4.1904], [7.0855, 4.1904], [7.0855, 4.3427], [1.7598, 4.3427]'
+...Line # 11 has text content 'expert knowledge of early childhood, research, advocacy, and research-based' within bounding box '[1.7585, 4.3871], [7.2302, 4.3871], [7.2302, 4.5401], [1.7585, 4.5401]'
+...Line # 12 has text content 'practices. The specific purposes of the Board may include the following' within bounding box '[1.756, 4.5821], [6.8292, 4.5821], [6.8292, 4.7351], [1.756, 4.7351]'
+...Line # 13 has text content 'responsibilities:' within bounding box '[1.7568, 4.7774], [2.8802, 4.7774], [2.8802, 4.9287], [1.7568, 4.9287]'
+...Line # 14 has text content '1.' within bounding box '[1.7645, 5.1732], [1.867, 5.1732], [1.867, 5.2856], [1.7645, 5.2856]'
+...Line # 15 has text content 'Recommend policies on the programming, personnel, relations and other' within bounding box '[2.0098, 5.1691], [7.1912, 5.1691], [7.1912, 5.3217], [2.0098, 5.3217]'
+...Line # 16 has text content 'matters directly involving the Center of Excellence and its many constituents.' within bounding box '[2.0068, 5.3771], [7.4704, 5.3771], [7.4704, 5.5301], [2.0068, 5.5301]'
+...Line # 17 has text content '2.' within bounding box '[1.7605, 5.5899], [1.867, 5.5899], [1.867, 5.7022], [1.7605, 5.7022]'
+...Line # 18 has text content 'Recommend best practices related to planning and development of curricula' within bounding box '[2.0098, 5.5854], [7.4219, 5.5854], [7.4219, 5.7384], [2.0098, 5.7384]'
+...Line # 19 has text content '3.' within bounding box '[1.7617, 5.7982], [1.867, 5.7982], [1.867, 5.9117], [1.7617, 5.9117]'
+...Line # 20 has text content 'Review and recommend the scope, range, and direction of the Center' within bounding box '[2.0098, 5.7937], [6.8828, 5.7937], [6.8828, 5.9467], [2.0098, 5.9467]'
+...Line # 21 has text content '4.' within bounding box '[1.7563, 6.0072], [1.867, 6.0072], [1.867, 6.1189], [1.7563, 6.1189]'
+...Line # 22 has text content 'Review and recommend appropriate research and grant related activities' within bounding box '[2.0098, 6.0024], [7.205, 6.0024], [7.205, 6.1551], [2.0098, 6.1551]'
+...Line # 23 has text content '5.' within bounding box '[1.7622, 6.2107], [1.867, 6.2107], [1.867, 6.3284], [1.7622, 6.3284]'
+...Line # 24 has text content 'Recommend appropriate directions to the Executive Director' within bounding box '[2.0098, 6.2107], [6.3379, 6.2107], [6.3379, 6.3621], [2.0098, 6.3621]'
+...Line # 25 has text content '6.' within bounding box '[1.7605, 6.4232], [1.867, 6.4232], [1.867, 6.5367], [1.7605, 6.5367]'
+...Line # 26 has text content 'Review and recommend the annual calendar and operating budget of the' within bounding box '[2.0098, 6.4187], [7.1645, 6.4187], [7.1645, 6.5717], [2.0098, 6.5717]'
+...Line # 27 has text content 'Center of Excellence' within bounding box '[2.0097, 6.6137], [3.4312, 6.6137], [3.4312, 6.7317], [2.0097, 6.7317]'
+...Line # 28 has text content '7.' within bounding box '[1.762, 6.8144], [1.867, 6.8144], [1.867, 6.9259], [1.762, 6.9259]'
+...Line # 29 has text content 'Provide a periodic review of the Executive Director to the Dean of Clemmer' within bounding box '[2.0098, 6.8087], [7.3379, 6.8087], [7.3379, 6.9604], [2.0098, 6.9604]'
+...Line # 30 has text content 'College' within bounding box '[2.0097, 7.0057], [2.5095, 7.0057], [2.5095, 7.1584], [2.0097, 7.1584]'
+...Line # 31 has text content '8.' within bounding box '[1.759, 7.2049], [1.867, 7.2049], [1.867, 7.3184], [1.759, 7.3184]'
+...Line # 32 has text content 'All members of the Advisory Board will be subject to all the appropriate' within bounding box '[2.0005, 7.2004], [7.0879, 7.2004], [7.0879, 7.3531], [2.0005, 7.3531]'
+...Line # 33 has text content 'statutory requirements of the State of Tennessee' within bounding box '[1.7577, 7.3954], [5.2095, 7.3954], [5.2095, 7.5477], [1.7577, 7.5477]'
+...Line # 34 has text content 'III.' within bounding box '[1.2598, 7.7927], [1.4353, 7.7927], [1.4353, 7.9039], [1.2598, 7.9039]'
+...Line # 35 has text content 'Relationship of Board Members to ETSU Center of Excellence in Early Childhood' within bounding box '[1.7598, 7.7871], [7.4268, 7.7871], [7.4268, 7.9394], [1.7598, 7.9394]'
+...Line # 36 has text content 'Learning and Development' within bounding box '[1.7598, 7.9824], [3.6808, 7.9824], [3.6808, 8.1351], [1.7598, 8.1351]'
+...Line # 37 has text content 'It is the role and sole prerogative of the ETSU Center of Excellence in Early' within bounding box '[1.7598, 8.3721], [7.0242, 8.3721], [7.0242, 8.5251], [1.7598, 8.5251]'
+...Line # 38 has text content 'Childhood Learning and Development to abide by the six initial mandates' within bounding box '[1.7597, 8.5691], [6.9483, 8.5691], [6.9483, 8.7217], [1.7597, 8.7217]'
+...Line # 39 has text content 'outlined in the original proposal and approved by the Tennessee Higher' within bounding box '[1.7585, 8.7641], [6.8529, 8.7641], [6.8529, 8.9167], [1.7585, 8.9167]'
+...Line # 40 has text content 'Education Commission in 1985. The Advisory Board is expected to offer' within bounding box '[1.7598, 8.9587], [6.8779, 8.9587], [6.8779, 9.1111], [1.7598, 9.1111]'
+...Line # 41 has text content 'recommendations for the improvement of the Center and to provide information' within bounding box '[1.7568, 9.1537], [7.4722, 9.1537], [7.4722, 9.3054], [1.7568, 9.3054]'
+...Line # 42 has text content 'relevant to policies which impact the Center of Excellence in Early Childhood' within bounding box '[1.7568, 9.3487], [7.1919, 9.3487], [7.1919, 9.5011], [1.7568, 9.5011]'
+...Line # 43 has text content 'Learning and Development.' within bounding box '[1.7598, 9.5457], [3.7053, 9.5457], [3.7053, 9.6984], [1.7598, 9.6984]'
+...Word 'ADVISORY' has a confidence of 1.0
+...Word 'BOARD' has a confidence of 1.0
+...Word 'CHARTER/BY-LAWS' has a confidence of 1.0
+...Word 'I.' has a confidence of 1.0
+...Word 'Principles' has a confidence of 1.0
+...Word 'This' has a confidence of 1.0
+...Word 'document' has a confidence of 1.0
+...Word 'is' has a confidence of 1.0
+...Word 'authored' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'provide' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'protocols' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'administrative' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'parliamentary' has a confidence of 1.0
+...Word 'function' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'ETSU' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'II.' has a confidence of 1.0
+...Word 'Purpose' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'purpose' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'this' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'advise,' has a confidence of 1.0
+...Word 'assist,' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'support' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'advocate' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'mission' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'ETSU' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development.' has a confidence of 1.0
+...Word 'Members' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'advisory' has a confidence of 1.0
+...Word 'board' has a confidence of 1.0
+...Word 'are' has a confidence of 1.0
+...Word 'volunteers' has a confidence of 1.0
+...Word 'who' has a confidence of 1.0
+...Word 'share' has a confidence of 1.0
+...Word 'an' has a confidence of 1.0
+...Word 'expert' has a confidence of 1.0
+...Word 'knowledge' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'early' has a confidence of 1.0
+...Word 'childhood,' has a confidence of 1.0
+...Word 'research,' has a confidence of 1.0
+...Word 'advocacy,' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'research-based' has a confidence of 1.0
+...Word 'practices.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'specific' has a confidence of 1.0
+...Word 'purposes' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'may' has a confidence of 1.0
+...Word 'include' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'following' has a confidence of 1.0
+...Word 'responsibilities:' has a confidence of 1.0
+...Word '1.' has a confidence of 1.0
+...Word 'Recommend' has a confidence of 1.0
+...Word 'policies' has a confidence of 1.0
+...Word 'on' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'programming,' has a confidence of 1.0
+...Word 'personnel,' has a confidence of 1.0
+...Word 'relations' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'other' has a confidence of 1.0
+...Word 'matters' has a confidence of 1.0
+...Word 'directly' has a confidence of 1.0
+...Word 'involving' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'its' has a confidence of 1.0
+...Word 'many' has a confidence of 1.0
+...Word 'constituents.' has a confidence of 1.0
+...Word '2.' has a confidence of 1.0
+...Word 'Recommend' has a confidence of 1.0
+...Word 'best' has a confidence of 1.0
+...Word 'practices' has a confidence of 1.0
+...Word 'related' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'planning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'development' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'curricula' has a confidence of 1.0
+...Word '3.' has a confidence of 1.0
+...Word 'Review' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'recommend' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'scope,' has a confidence of 1.0
+...Word 'range,' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'direction' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word '4.' has a confidence of 1.0
+...Word 'Review' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'recommend' has a confidence of 1.0
+...Word 'appropriate' has a confidence of 1.0
+...Word 'research' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'grant' has a confidence of 1.0
+...Word 'related' has a confidence of 1.0
+...Word 'activities' has a confidence of 1.0
+...Word '5.' has a confidence of 1.0
+...Word 'Recommend' has a confidence of 1.0
+...Word 'appropriate' has a confidence of 1.0
+...Word 'directions' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Executive' has a confidence of 1.0
+...Word 'Director' has a confidence of 1.0
+...Word '6.' has a confidence of 1.0
+...Word 'Review' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'recommend' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'annual' has a confidence of 1.0
+...Word 'calendar' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'operating' has a confidence of 1.0
+...Word 'budget' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word '7.' has a confidence of 1.0
+...Word 'Provide' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'periodic' has a confidence of 1.0
+...Word 'review' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Executive' has a confidence of 1.0
+...Word 'Director' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Dean' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Clemmer' has a confidence of 1.0
+...Word 'College' has a confidence of 1.0
+...Word '8.' has a confidence of 1.0
+...Word 'All' has a confidence of 1.0
+...Word 'members' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'subject' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'all' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'appropriate' has a confidence of 1.0
+...Word 'statutory' has a confidence of 1.0
+...Word 'requirements' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'State' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Tennessee' has a confidence of 1.0
+...Word 'III.' has a confidence of 1.0
+...Word 'Relationship' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'Members' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'ETSU' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development' has a confidence of 1.0
+...Word 'It' has a confidence of 1.0
+...Word 'is' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'role' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'sole' has a confidence of 1.0
+...Word 'prerogative' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'ETSU' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'abide' has a confidence of 1.0
+...Word 'by' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'six' has a confidence of 1.0
+...Word 'initial' has a confidence of 1.0
+...Word 'mandates' has a confidence of 1.0
+...Word 'outlined' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'original' has a confidence of 1.0
+...Word 'proposal' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'approved' has a confidence of 1.0
+...Word 'by' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Tennessee' has a confidence of 1.0
+...Word 'Higher' has a confidence of 1.0
+...Word 'Education' has a confidence of 1.0
+...Word 'Commission' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word '1985.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'is' has a confidence of 1.0
+...Word 'expected' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'offer' has a confidence of 1.0
+...Word 'recommendations' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'improvement' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'provide' has a confidence of 1.0
+...Word 'information' has a confidence of 1.0
+...Word 'relevant' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'policies' has a confidence of 1.0
+...Word 'which' has a confidence of 1.0
+...Word 'impact' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development.' has a confidence of 1.0
+----Analyzing document from page #2----
+Page has width: 8.5 and height: 11.0, measured with unit: inch
+...Line # 0 has text content 'IV.' within bounding box '[1.2598, 1.2422], [1.4287, 1.2422], [1.4287, 1.3545], [1.2598, 1.3545]'
+...Line # 1 has text content 'Members' within bounding box '[1.7595, 1.2368], [2.4117, 1.2368], [2.4117, 1.3545], [1.7595, 1.3545]'
+...Line # 2 has text content 'Inaugural board members shall be selected and appointed by the Director of the' within bounding box '[1.7598, 1.6282], [7.4178, 1.6282], [7.4178, 1.7812], [1.7598, 1.7812]'
+...Line # 3 has text content 'Center of Excellence in Early Childhood Learning and Development in concert' within bounding box '[1.7597, 1.8232], [7.2575, 1.8232], [7.2575, 1.9762], [1.7597, 1.9762]'
+...Line # 4 has text content 'with the Dean of the Clemmer College, and the Provost and Vice President of' within bounding box '[1.7523, 2.0182], [7.1689, 2.0182], [7.1689, 2.1712], [1.7523, 2.1712]'
+...Line # 5 has text content 'Academic Affairs. Subsequent board members may be nominated for' within bounding box '[1.7505, 2.2132], [6.6595, 2.2132], [6.6595, 2.3655], [1.7505, 2.3655]'
+...Line # 6 has text content 'appointment by both the Director and the Nominating Board. Members shall' within bounding box '[1.7565, 2.4102], [7.2003, 2.4102], [7.2003, 2.5628], [1.7565, 2.5628]'
+...Line # 7 has text content 'represent a cross-section of faculty in respective academic areas related to the' within bounding box '[1.7568, 2.6048], [7.2945, 2.6048], [7.2945, 2.7572], [1.7568, 2.7572]'
+...Line # 8 has text content 'mission and charge of the Center of Excellence as well as community' within bounding box '[1.7568, 2.7998], [6.6075, 2.7998], [6.6075, 2.9528], [1.7568, 2.9528]'
+...Line # 9 has text content 'stakeholders and leaders.' within bounding box '[1.7577, 2.9952], [3.5553, 2.9952], [3.5553, 3.1128], [1.7577, 3.1128]'
+...Line # 10 has text content 'Term: Member terms shall be three years. No member shall serve more than' within bounding box '[1.7553, 3.3868], [7.2022, 3.3868], [7.2022, 3.5388], [1.7553, 3.5388]'
+...Line # 11 has text content 'two consecutive terms, but a former member may be re-appointed after a one-' within bounding box '[1.753, 3.5815], [7.3115, 3.5815], [7.3115, 3.7338], [1.753, 3.7338]'
+...Line # 12 has text content 'year absence from the Advisory Board.' within bounding box '[1.7517, 3.7765], [4.4953, 3.7765], [4.4953, 3.9288], [1.7517, 3.9288]'
+...Line # 13 has text content 'Composition: The Advisory Board shall consist of five (5) no more than nine (9)' within bounding box '[1.7597, 4.1682], [7.3773, 4.1682], [7.3773, 4.3205], [1.7597, 4.3205]'
+...Line # 14 has text content 'members. Positions and vacancies are filled as the Board requires, specifically if' within bounding box '[1.7568, 4.3632], [7.4489, 4.3632], [7.4489, 4.5155], [1.7568, 4.5155]'
+...Line # 15 has text content 'there are specific area of expertise needed on the Board.' within bounding box '[1.753, 4.5582], [5.7287, 4.5582], [5.7287, 4.7098], [1.753, 4.7098]'
+...Line # 16 has text content 'V.' within bounding box '[1.2518, 4.9555], [1.3753, 4.9555], [1.3753, 5.0678], [1.2518, 5.0678]'
+...Line # 17 has text content 'Organizational Structure' within bounding box '[1.7597, 4.9502], [3.5012, 4.9502], [3.5012, 5.1028], [1.7597, 5.1028]'
+...Line # 18 has text content 'Officers: The Advisory Board will have a chair and recording secretary who are' within bounding box '[1.7597, 5.3398], [7.3412, 5.3398], [7.3412, 5.4928], [1.7597, 5.4928]'
+...Line # 19 has text content 'elected for one-year terms by the membership.' within bounding box '[1.7585, 5.5348], [5.0737, 5.5348], [5.0737, 5.6872], [1.7585, 5.6872]'
+...Line # 20 has text content 'VI.' within bounding box '[1.2518, 5.9322], [1.4287, 5.9322], [1.4287, 6.0445], [1.2518, 6.0445]'
+...Line # 21 has text content 'Procedural Rules' within bounding box '[1.7598, 5.9268], [2.9584, 5.9268], [2.9584, 6.0445], [1.7598, 6.0445]'
+...Line # 22 has text content 'By-Laws: The Advisory Board will adopt a set of written by-laws at the' within bounding box '[1.7598, 6.3165], [6.7478, 6.3165], [6.7478, 6.4688], [1.7598, 6.4688]'
+...Line # 23 has text content 'organizational meeting of the Board. The by-laws govern Board operation. By-' within bounding box '[1.7585, 6.5132], [7.3598, 6.5132], [7.3598, 6.6662], [1.7585, 6.6662]'
+...Line # 24 has text content 'laws require two-thirds vote for adoption or change.' within bounding box '[1.7552, 6.7082], [5.4653, 6.7082], [5.4653, 6.8612], [1.7552, 6.8612]'
+...Line # 25 has text content 'Meetings: A quorum shall consist of a simple majority of appointed members.' within bounding box '[1.7595, 7.0982], [7.2237, 7.0982], [7.2237, 7.2512], [1.7595, 7.2512]'
+...Line # 26 has text content 'The Board will meet at least two times per year. Written notice of upcoming' within bounding box '[1.7553, 7.2948], [7.1658, 7.2948], [7.1658, 7.4478], [1.7553, 7.4478]'
+...Line # 27 has text content 'meetings will be sent to Board members at least 20 days before a meeting.' within bounding box '[1.7568, 7.4898], [7.0037, 7.4898], [7.0037, 7.6428], [1.7568, 7.6428]'
+...Line # 28 has text content 'Minutes: Minutes of each meeting will be kept. Copies will be provided to the' within bounding box '[1.7595, 7.8798], [7.2245, 7.8798], [7.2245, 8.0328], [1.7595, 8.0328]'
+...Line # 29 has text content 'Center Director and Board membership within two weeks after a meeting.' within bounding box '[1.7597, 8.0765], [7.0004, 8.0765], [7.0004, 8.2295], [1.7597, 8.2295]'
+...Line # 30 has text content 'Recommendations and Reports: Board recommendations and reports will be' within bounding box '[1.7598, 8.4668], [7.1995, 8.4668], [7.1995, 8.6182], [1.7598, 8.6182]'
+...Line # 31 has text content 'submitted in writing to the Advisory Board. Documents will include both' within bounding box '[1.7577, 8.6618], [6.9412, 8.6618], [6.9412, 8.8145], [1.7577, 8.8145]'
+...Line # 32 has text content 'suggested action and for suggestions. The Advisory Board will respond/react to' within bounding box '[1.7577, 8.8565], [7.4282, 8.8565], [7.4282, 9.0095], [1.7577, 9.0095]'
+...Line # 33 has text content 'such recommendations/reports in writing.' within bounding box '[1.7577, 9.0535], [4.7803, 9.0535], [4.7803, 9.2062], [1.7577, 9.2062]'
+...Line # 34 has text content 'Dismissal: Members who are absent without reasonable cause from three' within bounding box '[1.7598, 9.4432], [6.9562, 9.4432], [6.9562, 9.5612], [1.7598, 9.5612]'
+...Line # 35 has text content 'successive meetings will be considered to have resigned their seat. The Advisory' within bounding box '[1.7577, 9.6385], [7.4992, 9.6385], [7.4992, 9.7912], [1.7577, 9.7912]'
+...Line # 36 has text content 'Board will move to fill the position.' within bounding box '[1.7598, 9.8348], [4.232, 9.8348], [4.232, 9.9865], [1.7598, 9.9865]'
+...Word 'IV.' has a confidence of 1.0
+...Word 'Members' has a confidence of 1.0
+...Word 'Inaugural' has a confidence of 1.0
+...Word 'board' has a confidence of 1.0
+...Word 'members' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'selected' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'appointed' has a confidence of 1.0
+...Word 'by' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Director' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'Early' has a confidence of 1.0
+...Word 'Childhood' has a confidence of 1.0
+...Word 'Learning' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Development' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'concert' has a confidence of 1.0
+...Word 'with' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Dean' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Clemmer' has a confidence of 1.0
+...Word 'College,' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Provost' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Vice' has a confidence of 1.0
+...Word 'President' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Academic' has a confidence of 1.0
+...Word 'Affairs.' has a confidence of 1.0
+...Word 'Subsequent' has a confidence of 1.0
+...Word 'board' has a confidence of 1.0
+...Word 'members' has a confidence of 1.0
+...Word 'may' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'nominated' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'appointment' has a confidence of 1.0
+...Word 'by' has a confidence of 1.0
+...Word 'both' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Director' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Nominating' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'Members' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'represent' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'cross-section' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'faculty' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'respective' has a confidence of 1.0
+...Word 'academic' has a confidence of 1.0
+...Word 'areas' has a confidence of 1.0
+...Word 'related' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'mission' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'charge' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'Excellence' has a confidence of 1.0
+...Word 'as' has a confidence of 1.0
+...Word 'well' has a confidence of 1.0
+...Word 'as' has a confidence of 1.0
+...Word 'community' has a confidence of 1.0
+...Word 'stakeholders' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'leaders.' has a confidence of 1.0
+...Word 'Term:' has a confidence of 1.0
+...Word 'Member' has a confidence of 1.0
+...Word 'terms' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'three' has a confidence of 1.0
+...Word 'years.' has a confidence of 1.0
+...Word 'No' has a confidence of 1.0
+...Word 'member' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'serve' has a confidence of 1.0
+...Word 'more' has a confidence of 1.0
+...Word 'than' has a confidence of 1.0
+...Word 'two' has a confidence of 1.0
+...Word 'consecutive' has a confidence of 1.0
+...Word 'terms,' has a confidence of 1.0
+...Word 'but' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'former' has a confidence of 1.0
+...Word 'member' has a confidence of 1.0
+...Word 'may' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 're-appointed' has a confidence of 1.0
+...Word 'after' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'one-' has a confidence of 1.0
+...Word 'year' has a confidence of 1.0
+...Word 'absence' has a confidence of 1.0
+...Word 'from' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'Composition:' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'consist' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'five' has a confidence of 1.0
+...Word '(5)' has a confidence of 1.0
+...Word 'no' has a confidence of 1.0
+...Word 'more' has a confidence of 1.0
+...Word 'than' has a confidence of 1.0
+...Word 'nine' has a confidence of 1.0
+...Word '(9)' has a confidence of 1.0
+...Word 'members.' has a confidence of 1.0
+...Word 'Positions' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'vacancies' has a confidence of 1.0
+...Word 'are' has a confidence of 1.0
+...Word 'filled' has a confidence of 1.0
+...Word 'as' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'requires,' has a confidence of 1.0
+...Word 'specifically' has a confidence of 1.0
+...Word 'if' has a confidence of 1.0
+...Word 'there' has a confidence of 1.0
+...Word 'are' has a confidence of 1.0
+...Word 'specific' has a confidence of 1.0
+...Word 'area' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'expertise' has a confidence of 1.0
+...Word 'needed' has a confidence of 1.0
+...Word 'on' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'V.' has a confidence of 1.0
+...Word 'Organizational' has a confidence of 1.0
+...Word 'Structure' has a confidence of 1.0
+...Word 'Officers:' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'have' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'chair' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'recording' has a confidence of 1.0
+...Word 'secretary' has a confidence of 1.0
+...Word 'who' has a confidence of 1.0
+...Word 'are' has a confidence of 1.0
+...Word 'elected' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'one-year' has a confidence of 1.0
+...Word 'terms' has a confidence of 1.0
+...Word 'by' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'membership.' has a confidence of 1.0
+...Word 'VI.' has a confidence of 1.0
+...Word 'Procedural' has a confidence of 1.0
+...Word 'Rules' has a confidence of 1.0
+...Word 'By-Laws:' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'adopt' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'set' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'written' has a confidence of 1.0
+...Word 'by-laws' has a confidence of 1.0
+...Word 'at' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'organizational' has a confidence of 1.0
+...Word 'meeting' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'by-laws' has a confidence of 1.0
+...Word 'govern' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'operation.' has a confidence of 1.0
+...Word 'By-' has a confidence of 1.0
+...Word 'laws' has a confidence of 1.0
+...Word 'require' has a confidence of 1.0
+...Word 'two-thirds' has a confidence of 1.0
+...Word 'vote' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'adoption' has a confidence of 1.0
+...Word 'or' has a confidence of 1.0
+...Word 'change.' has a confidence of 1.0
+...Word 'Meetings:' has a confidence of 1.0
+...Word 'A' has a confidence of 1.0
+...Word 'quorum' has a confidence of 1.0
+...Word 'shall' has a confidence of 1.0
+...Word 'consist' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'simple' has a confidence of 1.0
+...Word 'majority' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'appointed' has a confidence of 1.0
+...Word 'members.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'meet' has a confidence of 1.0
+...Word 'at' has a confidence of 1.0
+...Word 'least' has a confidence of 1.0
+...Word 'two' has a confidence of 1.0
+...Word 'times' has a confidence of 1.0
+...Word 'per' has a confidence of 1.0
+...Word 'year.' has a confidence of 1.0
+...Word 'Written' has a confidence of 1.0
+...Word 'notice' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'upcoming' has a confidence of 1.0
+...Word 'meetings' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'sent' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'members' has a confidence of 1.0
+...Word 'at' has a confidence of 1.0
+...Word 'least' has a confidence of 1.0
+...Word '20' has a confidence of 1.0
+...Word 'days' has a confidence of 1.0
+...Word 'before' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'meeting.' has a confidence of 1.0
+...Word 'Minutes:' has a confidence of 1.0
+...Word 'Minutes' has a confidence of 1.0
+...Word 'of' has a confidence of 1.0
+...Word 'each' has a confidence of 1.0
+...Word 'meeting' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'kept.' has a confidence of 1.0
+...Word 'Copies' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'provided' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Center' has a confidence of 1.0
+...Word 'Director' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'membership' has a confidence of 1.0
+...Word 'within' has a confidence of 1.0
+...Word 'two' has a confidence of 1.0
+...Word 'weeks' has a confidence of 1.0
+...Word 'after' has a confidence of 1.0
+...Word 'a' has a confidence of 1.0
+...Word 'meeting.' has a confidence of 1.0
+...Word 'Recommendations' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'Reports:' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'recommendations' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'reports' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'submitted' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'writing' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board.' has a confidence of 1.0
+...Word 'Documents' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'include' has a confidence of 1.0
+...Word 'both' has a confidence of 1.0
+...Word 'suggested' has a confidence of 1.0
+...Word 'action' has a confidence of 1.0
+...Word 'and' has a confidence of 1.0
+...Word 'for' has a confidence of 1.0
+...Word 'suggestions.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'respond/react' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'such' has a confidence of 1.0
+...Word 'recommendations/reports' has a confidence of 1.0
+...Word 'in' has a confidence of 1.0
+...Word 'writing.' has a confidence of 1.0
+...Word 'Dismissal:' has a confidence of 1.0
+...Word 'Members' has a confidence of 1.0
+...Word 'who' has a confidence of 1.0
+...Word 'are' has a confidence of 1.0
+...Word 'absent' has a confidence of 1.0
+...Word 'without' has a confidence of 1.0
+...Word 'reasonable' has a confidence of 1.0
+...Word 'cause' has a confidence of 1.0
+...Word 'from' has a confidence of 1.0
+...Word 'three' has a confidence of 1.0
+...Word 'successive' has a confidence of 1.0
+...Word 'meetings' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'be' has a confidence of 1.0
+...Word 'considered' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'have' has a confidence of 1.0
+...Word 'resigned' has a confidence of 1.0
+...Word 'their' has a confidence of 1.0
+...Word 'seat.' has a confidence of 1.0
+...Word 'The' has a confidence of 1.0
+...Word 'Advisory' has a confidence of 1.0
+...Word 'Board' has a confidence of 1.0
+...Word 'will' has a confidence of 1.0
+...Word 'move' has a confidence of 1.0
+...Word 'to' has a confidence of 1.0
+...Word 'fill' has a confidence of 1.0
+...Word 'the' has a confidence of 1.0
+...Word 'position.' has a confidence of 1.0
+----------------------------------------
